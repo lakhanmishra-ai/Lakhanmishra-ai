@@ -1,8 +1,8 @@
 # Hi, I'm Lakhan R. Mishra 👋
 
-MSc Agronomy | Exploring Data Science, Machine Learning & Deep Learning with specialization in Computer Vision
+MSc Agronomy | Exploring Data Science, Machine Learning & Deep Learning with specialization in Computer Vision 
 Interested in applying AI to Agriculture for smarter crop management and yield prediction
-and also work with genral Artificial Intelligence.
+and also work with general Artificial Intelligence.
 
 ### Learning Journey
 - Python (Milestone 1)
