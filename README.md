@@ -19,6 +19,6 @@ and also work with general Artificial Intelligence.
   ---
 
   ### Connect With Me
-  [LinkedIn](https://www.linkedin.com/in/lakhan-mishra-22012035a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdwP12VzvSjyaCPkQVwyNmQ%3D%3D)
+  [LinkedIn](https://www.linkedin.com/in/lakhan-mishra-bab866229?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhOlclD16TR2rAGIytDVZmw%3D%3D)
   [Email](Mailto:lakhanmishra.ai@gmail.com)  
    
